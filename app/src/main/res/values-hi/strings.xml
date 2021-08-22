@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">javaproject</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">गण</string>
+    <string name="price">आदेश सारांश</string>
+    <string name="name">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="thank_you">" जी शुक्रिया"</string>
+    <string name="name1">नाम</string>
+    <string name="added_whipped">व्हीप्ड क्रीम जोड़ा</string>
+    <string name="added_chocolate">जोड़ा चॉकलेट</string>
+    <string name="quantity_display">मात्रा</string>
+    <string name="total_price">कुल किमत</string>
+    <string name="Maximum_orders">अधिकतम आदेश 100 कॉफी</string>
+    <string name="minimum_order">न्यूनतम आदेश 1 कॉफी</string>
+</resources>
